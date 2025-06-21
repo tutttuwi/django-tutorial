@@ -24,5 +24,3 @@ django-admin startproject mysite djangotutorial
 python manage.py startapp polls
 
 ```
-
-
